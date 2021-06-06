@@ -1,3 +1,13 @@
 .App {
   font-family: cursive;
 }
+.button-slanted-content {
+  -ms-transform: skewX(20deg);
+  -webkit-transform: skewX(20deg);
+  transform: skewX(-15deg);
+  display: inline-block;
+  margin-left: 20px;
+}
+.fields {
+  padding-top: 30px;
+}
